@@ -10,7 +10,7 @@ import tensorflow as tf
 
 from research.object_detection.utils import label_map_util
 from object_detection.utils import visualization_utils as vis_util
-from com_in_ineuron_ai_utils.utils import encodeImageIntoBase64
+from image_utils.utils import encodeImageIntoBase64
 
 class MultiClassObj:
     def __init__(self, imagePath, modelPath):
