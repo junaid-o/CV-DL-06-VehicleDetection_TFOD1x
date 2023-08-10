@@ -1,0 +1,1 @@
+**Keep Trained Frozen model here 'frozen_inference_graph.pb'**
